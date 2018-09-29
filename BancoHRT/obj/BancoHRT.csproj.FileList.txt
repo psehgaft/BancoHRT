@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\BancoHRT.Properties.Resources.resources
+obj\Debug\BancoHRT.csproj.GenerateResource.Cache
+bin\Debug\BancoHRT.exe
+bin\Debug\BancoHRT.pdb
+obj\Debug\BancoHRT.exe
+obj\Debug\BancoHRT.pdb
+obj\Debug\BancoHRT.Form1.resources
